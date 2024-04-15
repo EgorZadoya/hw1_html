@@ -1,0 +1,27 @@
+.foot{
+    background-color: lightgrey;
+    color: darkcyan;
+    margin: 0px 5px;
+}
+
+.html{
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+
+.code{
+    background-color: lightgrey;
+    color: brown;
+}
+
+.text{
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}

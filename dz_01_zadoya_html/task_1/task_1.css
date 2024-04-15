@@ -1,0 +1,12 @@
+h3{
+    color: rgb(2, 123, 167);
+}
+
+h1{
+    color: rgb(7, 80, 198);
+    text-align: center;
+}
+
+#p_italic{
+    font-style: italic;
+}

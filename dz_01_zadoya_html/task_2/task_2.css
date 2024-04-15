@@ -1,0 +1,27 @@
+.clubs{
+    color: black;
+    font-size: 24px;
+    padding: 0px 5px;
+    background-color: lightgrey;
+}
+
+.hearts{
+    color:brown;
+    font-size: 24px;
+    padding: 0px 5px;
+    background-color: lightgrey;
+}
+
+.diams{
+    color:brown;
+    font-size: 24px;
+    padding: 0px 5px;
+    background-color: lightgrey;
+}
+
+.spades{
+    color: black;
+    font-size: 24px;
+    padding: 0px 5px;
+    background-color: lightgrey;
+}
